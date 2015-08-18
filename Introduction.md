@@ -52,6 +52,13 @@ To start off, let's count off in 3s. If you don’t have a computer with you, sa
 
 > Activity: Count off in 3s for group creation
 
+## First Group Self-Assessment
+Now work in groups to answer the following questions. 
+* Describe three ways in which the ideal scientific workflow are different from the actual workflow.
+* Recreate the ideal scientific workflow and highlight specific actions that can occur in each step that align with principles of open science.
+
+>Activity: Group members discuss questions and come to consensus on answers. Depending on alloted time, groups can share their answers with the larger crowd.
+
 Also, as I mentioned we will be working with the OSF during this workshop. If you don’t already have an OSF account, please go ahead and set-up one. If you go to [visit OSF](https://osf.io) you can either create an account, or sign-in if you already have one. If you are creating an account, an email will be sent to your email to verify your account.
 
 > Activity: Sign-up or login to [visit OSF](https://osf.io)
